@@ -1,13 +1,9 @@
-import { useContext, useState } from "react";
-
-const { createContext } = require("react");
+import { createContext, useContext } from "react";
 
 const GlobalContext = createContext();
 
 const GlobalContextProvider = ({ children }) => {
-  const [number, setNumber] = useState(0);
-
-  const state = { number, setNumber };
+  const state = {};
 
   return (
     <GlobalContext.Provider value={state}>{children}</GlobalContext.Provider>
