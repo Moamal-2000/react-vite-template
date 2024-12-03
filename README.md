@@ -13,6 +13,8 @@ This is a starter template for quickly setting up a React project using [Vite](h
 - **CSS Modules**: Modular CSS for styling components locally.
 - **Organized Folder Structure**: A clean and extensible architecture.
 - **Redux/Toolkit** A simple setup of Redux/Toolkit for state management
+- **React-Router-Dom v6** Structured routes for seamless navigation.
+- **Custom Hooks** Simplify common tasks and boost development efficiency with prebuilt hooks.
 
 ---
 
@@ -34,7 +36,7 @@ Make sure you have Node.js installed. Then run:
 npm install
 ```
 
-or using yarn:
+Or using yarn:
 
 ```bash
 yarn install
