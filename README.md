@@ -14,9 +14,8 @@ This is a starter template for quickly setting up a React project using [Vite](h
 - **Organized Folder Structure**: A clean and extensible architecture.
 - **Redux/Toolkit** A simple setup of Redux/Toolkit for state management
 - **React-Router-Dom v6** Structured routes for seamless navigation.
+- **Context** Simplified state sharing across components without prop drilling.
 - **Custom Hooks** Simplify common tasks and boost development efficiency with prebuilt hooks.
-
----
 
 ## Getting Started
 
