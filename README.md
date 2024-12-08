@@ -1,6 +1,6 @@
 ![1708033784779](https://github.com/user-attachments/assets/7878ac78-1d44-4462-91b2-572306a4b2eb)
 
-# React + Vite Starter Project
+# React v19 + Vite Starter Project
 
 This is a starter template for quickly setting up a React project using [Vite](https://vitejs.dev). It comes pre-configured with essential tools and settings to streamline development and reduce setup time.
 
@@ -9,7 +9,7 @@ This is a starter template for quickly setting up a React project using [Vite](h
 ## Features
 
 - **Vite**: Fast and modern build tool for blazing fast development.
-- **React 18**: The latest version of React for building user interfaces.
+- **React 19**: The latest version of React for building user interfaces.
 - **CSS Modules**: Modular CSS for styling components locally.
 - **Organized Folder Structure**: A clean and extensible architecture.
 - **Redux/Toolkit** A simple setup of Redux/Toolkit for state management
