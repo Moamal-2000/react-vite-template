@@ -1,4 +1,4 @@
-![1708033784779](https://github.com/user-attachments/assets/7878ac78-1d44-4462-91b2-572306a4b2eb)
+![react-vite](https://github.com/user-attachments/assets/e7c6c6f2-4789-4cee-9d33-4b34ea238c9e)
 
 # React v19 + Vite Starter Project
 
