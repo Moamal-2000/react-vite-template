@@ -5,10 +5,10 @@ const initialState = {};
 export const globalSlice = createSlice({
   name: "globalSlice",
   initialState,
+
   reducers: {
-    updateGlobalState: (state, { payload }) => {
-      state[payload.key] = payload.value;
-    },
+    updateGlobalState: (state, { payload }) =>
+      (state[payload.key] = payload.value),
   },
 });
 
