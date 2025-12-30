@@ -13,8 +13,7 @@ This is a starter template for quickly setting up a React project using [Vite](h
 - **CSS Modules**: Modular CSS for styling components locally.
 - **Organized Folder Structure**: A clean and extensible architecture.
 - **Redux/Toolkit** A simple setup of Redux/Toolkit for state management
-- **React-Router-Dom v6** Structured routes for seamless navigation.
-- **Context** Simplified state sharing across components without prop drilling.
+- **React-Router-Dom v7** Structured routes for seamless navigation.
 - **Custom Hooks** Simplify common tasks and boost development efficiency with prebuilt hooks.
 
 ## Getting Started
@@ -32,7 +31,7 @@ git clone git@github.com:Moamal-2000/react-vite.git
 Make sure you have Node.js installed. Then run:
 
 ```bash
-npm install
+pnpm install
 ```
 
 Or using yarn:
@@ -48,7 +47,7 @@ yarn install
 Run the following command to start the local development server:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 ---
